@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+<br>Aquí tienes una versión más detallada y visualmente atractiva, con un enfoque claro en el análisis de datos y el uso de emojis para darle un toque más dinámico:<br><br>Sobre mí<br>¡Hola! Soy David Rodrigo Rubio, especialista en Análisis de Datos con experiencia en transformar datos complejos en información clara y accionable. Me apasiona trabajar con grandes volúmenes de datos, aplicar modelos analíticos avanzados y generar insights que impulsen la toma de decisiones estratégicas.<br><br>Mi objetivo es resolver problemas empresariales mediante la optimización de procesos basados en datos y ayudar a las organizaciones a alcanzar sus metas con una estrategia basada en información.<br><br>🛠️ Habilidades técnicas:<br>Python 🐍: Experto en bibliotecas como Pandas, NumPy, Matplotlib y Seaborn para análisis y visualización de datos.<br>SQL 🗄️: Amplia experiencia en la manipulación y consulta de bases de datos relacionales.<br>Power BI & Tableau 📊: Creación de dashboards interactivos y visualizaciones claras que permiten a los equipos tomar decisiones basadas en datos.<br>Modelado estadístico 📈: Conocimientos en regresión, clasificación y clustering para análisis predictivo y descriptivo.<br>Limpieza y transformación de datos 🧹: Habilidad para tratar datos desordenados y convertirlos en un formato utilizable.<br>Automatización de procesos 🤖: Creación de scripts para la automatización de flujos de trabajo, informes y análisis recurrentes.<br>Excel avanzado 📑: Creación de modelos complejos y análisis de grandes conjuntos de datos usando funciones avanzadas y tablas dinámicas.<br>🌟 Soft Skills:<br>Pensamiento crítico 🤔: Habilidad para abordar problemas complejos desde diferentes ángulos y encontrar soluciones innovadoras.<br>Comunicación 🗣️: Capacidad para traducir análisis técnicos en conclusiones claras y comprensibles para equipos no técnicos.<br>Trabajo en equipo 🤝: Colaboro de manera efectiva con equipos multidisciplinarios y oriento el análisis de datos hacia las necesidades del negocio.<br>Aprendizaje continuo 📚: Siempre estoy en busca de nuevas tecnologías y métodos para mejorar mis habilidades en análisis de datos.
 
-<!--
-**DavidRR03/DavidRR03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-rodrigo-rubio-7b058130/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DavidRR03&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DavidRR03&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRR03&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DavidRR03&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DavidRR03&icon=5&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
